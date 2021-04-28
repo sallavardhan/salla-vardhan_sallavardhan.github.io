@@ -1,4 +1,4 @@
- # in this website our style tag is not working so iam unable to create any css sir but i know good css in reple here its not applying
+ # in this website our style tag is not working so iam unable to create any css sir but i know good css in reple here its not applying once please check below
 
 # SHAPEAI WEB DEV BOOTCAMP
 Hi I made this project during the 7 Days Free Bootcamp, conducted by <b> SHAPEAI
@@ -27,6 +27,22 @@ be</a>
 <li><a href=
 "https://github.com/shapeai">GitHub</a>
  # in this website our style tag is not working so iam unable to create any css sir but i know good css in reple here its not applying
+ <style>
+ *{
+  background-color: blue;
+  color: white;
+  text-transform: uppercase;
+  font-family: Arial, Helvetica, sans-serif;
+  img{
+width:50%;
+border:5px pink;
+cursor:pointer;
+box-shadow:5px 5px 20px black;
+  height: 2em;
+  padding-top: 25px;
+  padding-left: 15px;
+}
+  </style>
 
 
 
