@@ -24,4 +24,27 @@ href=
 be</a>
 <li><a href=
 "https://github.com/shapeai">GitHub</a>
+<!DOCTYPE html>
+<html>
 
+<head>
+	<meta charset="utf-8">
+	<title>Button</title>
+  <style>
+
+    img{
+width:50%;
+border:5px dashed salmon;
+cursor:pointer;
+box-shadow:5px 5px 20px black;
+
+    }
+    </style>
+	
+
+</head>
+
+<body>
+<img src="BOOTCAMP.png" alt="king">
+</body>
+</html>
