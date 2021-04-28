@@ -24,10 +24,12 @@ href=
 be</a>
 <li><a href=
 "https://github.com/shapeai">GitHub</a>
+ <style>
 img{
 width:50%;
 border:5px dashed salmon;
 cursor:pointer;
 box-shadow:5px 5px 20px black;
+  </style>
 
 
