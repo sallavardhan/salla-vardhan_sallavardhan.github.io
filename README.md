@@ -1,3 +1,5 @@
+ # in this website our style tag is not working so iam unable to create any css sir but i know good css in reple here its not applying
+
 # SHAPEAI WEB DEV BOOTCAMP
 Hi I made this project during the 7 Days Free Bootcamp, conducted by <b> SHAPEAI
 </b>
