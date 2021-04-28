@@ -1,4 +1,4 @@
-# SHAPEAI WEB DEV BOOTCAMP
+<title> SHAPEAI WEB DEV BOOTCAMP</title>
 Hi I made this project during the 7 Days Free Bootcamp, conducted by <b> SHAPEAI
 </b>.
 The instructor during the session was Mr. Shaurya Sinha (Data Analyst Intern at Jio). I got to
@@ -23,3 +23,14 @@ href=
 be</a>
 <li><a href=
 "https://github.com/shapeai">GitHub</a>
+  <style>
+  title{
+  background-color: red;
+  color: white;
+  text-transform: uppercase;
+  font-family: Arial, Helvetica, sans-serif;
+  height: 2em;
+  padding-top: 25px;
+  padding-left: 15px;
+}
+</style>
