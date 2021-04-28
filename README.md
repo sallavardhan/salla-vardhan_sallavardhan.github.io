@@ -1,6 +1,13 @@
 # SHAPEAI WEB DEV BOOTCAMP
 Hi I made this project during the 7 Days Free Bootcamp, conducted by <b> SHAPEAI
-</b>.
+</b>
+<style>
+ img{
+width:50%;
+border:5px dashed salmon;
+cursor:pointer;
+box-shadow:5px 5px 20px black;
+  </style>
 The instructor during the session was Mr. Shaurya Sinha (Data Analyst Intern at Jio). I got to
 learn a lot during these 7 days and it was an amazing experience learning with SHAPEAI.
 <br><br>Here's the link for you to watch the sessions as well<br>
@@ -24,10 +31,4 @@ href=
 be</a>
 <li><a href=
 "https://github.com/shapeai">GitHub</a>
-<style>
- img{
-width:50%;
-border:5px dashed salmon;
-cursor:pointer;
-box-shadow:5px 5px 20px black;
-  </style>
+
