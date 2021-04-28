@@ -25,9 +25,6 @@ be</a>
 <li><a href=
 "https://github.com/shapeai">GitHub</a>
 <style>
-  *{
-  background:black;
-  }
  img{
 width:50%;
 border:5px dashed salmon;
