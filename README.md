@@ -27,6 +27,8 @@ be</a>
 <li><a href=
 "https://github.com/shapeai">GitHub</a>
  # in this website our style tag is not working so iam unable to create any css sir but i know good css in reple here its not applying
+ 
+ 
  <style>
  *{
   background-color: blue;
