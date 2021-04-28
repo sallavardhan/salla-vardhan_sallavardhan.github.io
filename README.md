@@ -24,12 +24,7 @@ href=
 be</a>
 <li><a href=
 "https://github.com/shapeai">GitHub</a>
- <style>
-img{
-width:50%;
-border:5px dashed salmon;
-cursor:pointer;
-box-shadow:5px 5px 20px black;
-  </style>
+ # in this website our style tag is not working so iam unable to create any css sir but i know good css in reple here its not applying
+
 
 
